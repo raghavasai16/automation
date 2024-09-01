@@ -1,0 +1,241 @@
+08:29:52.403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:30:56.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:32:38.814 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:33:30.699 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:34:05.939 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:35:19.414 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:35:23.071 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:35:23.141 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+08:35:23.680 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+08:35:23.687 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+08:35:24.933 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+08:35:24.981 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+08:35:24.982 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+08:36:08.010 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml"
+08:36:08.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:36:11.564 [main] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+08:36:11.565 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:36:11.621 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+08:36:12.124 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+08:36:12.129 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+08:36:13.311 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+08:36:13.349 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+08:36:13.351 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+08:47:29.713 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml"
+08:47:29.922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\testng.xml
+
+08:47:33.962 [TestNG-tests-1] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+08:47:33.963 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:47:34.127 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+08:47:34.772 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+08:47:34.776 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+08:47:36.017 [TestNG-tests-2] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+08:47:36.018 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:47:36.082 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+08:47:36.338 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+08:47:36.382 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+08:47:36.386 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+08:47:36.653 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+08:47:36.655 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+08:47:37.823 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+08:47:37.860 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+08:47:37.860 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+08:27:06.303 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\datadriventests.xml"
+08:27:06.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\datadriventests.xml
+
+08:27:11.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:11.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:11.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.244 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.329 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.341 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.341 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.348 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.364 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.364 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.371 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.388 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.395 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.395 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.403 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.420 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.437 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.452 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.469 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.476 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.484 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.498 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.514 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.524 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.524 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.528 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.541 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.558 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:27:12.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:27:12.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:27:12.571 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:27:12.586 [main] INFO  TestCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT******
+08:27:14.748 [main] INFO  TestCases.TC_003_LoginDDT - *** Finished TC_003_LoginDDT******
+08:27:14.781 [main] INFO  TestCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT******
+08:27:17.231 [main] INFO  TestCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT******
+08:27:19.674 [main] INFO  TestCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT******
+08:27:31.103 [main] INFO  TestCases.TC_003_LoginDDT - *** Finished TC_003_LoginDDT******
+08:27:31.115 [main] INFO  TestCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT******
+08:27:34.060 [main] INFO  TestCases.TC_003_LoginDDT - *** Finished TC_003_LoginDDT******
+08:49:01.156 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+08:49:32.986 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+08:49:58.960 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+08:50:26.128 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+08:50:26.327 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+08:52:01.253 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+08:52:01.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+08:52:05.788 [main] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+08:52:05.788 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:52:05.901 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+08:52:06.478 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+08:52:06.487 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+08:52:07.985 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+08:52:08.055 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+08:52:08.056 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+08:52:11.532 [main] INFO  TestCases.TC_002_LoginTest - **** Starting TC_OO2_LoginTest *****
+08:52:11.611 [main] INFO  TestCases.TC_002_LoginTest - Clicked on My Account
+08:52:11.991 [main] INFO  TestCases.TC_002_LoginTest - Clicked on Login Link
+08:52:11.994 [main] INFO  TestCases.TC_002_LoginTest - Providing login details
+08:52:12.795 [main] INFO  TestCases.TC_002_LoginTest - clicked on Login button
+08:59:56.538 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+08:59:56.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+09:00:01.454 [main] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+09:00:01.454 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+09:00:01.533 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+09:00:02.290 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+09:00:02.298 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+09:00:04.569 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+09:00:04.613 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+09:00:04.613 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+09:00:08.291 [main] INFO  TestCases.TC_002_LoginTest - **** Starting TC_OO2_LoginTest *****
+09:00:08.364 [main] INFO  TestCases.TC_002_LoginTest - Clicked on My Account
+09:00:08.774 [main] INFO  TestCases.TC_002_LoginTest - Clicked on Login Link
+09:00:08.776 [main] INFO  TestCases.TC_002_LoginTest - Providing login details
+09:00:09.496 [main] INFO  TestCases.TC_002_LoginTest - clicked on Login button
+15:58:29.036 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+15:58:29.569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+15:58:38.580 [main] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+15:58:38.581 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:58:38.752 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:58:39.492 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+15:58:39.512 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+15:58:41.971 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:58:42.026 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+15:58:42.040 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+15:58:47.512 [main] INFO  TestCases.TC_002_LoginTest - **** Starting TC_OO2_LoginTest *****
+15:58:47.676 [main] INFO  TestCases.TC_002_LoginTest - Clicked on My Account
+15:58:48.155 [main] INFO  TestCases.TC_002_LoginTest - Clicked on Login Link
+15:58:48.163 [main] INFO  TestCases.TC_002_LoginTest - Providing login details
+15:58:49.121 [main] INFO  TestCases.TC_002_LoginTest - clicked on Login button
+19:53:55.291 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+19:53:55.659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+19:54:01.749 [main] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+19:54:01.750 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+19:54:01.874 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+19:54:02.500 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+19:54:02.508 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+19:54:04.744 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+19:54:04.802 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+19:54:04.810 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+19:54:08.784 [main] INFO  TestCases.TC_002_LoginTest - **** Starting TC_OO2_LoginTest *****
+19:54:08.874 [main] INFO  TestCases.TC_002_LoginTest - Clicked on My Account
+19:54:11.675 [main] INFO  TestCases.TC_002_LoginTest - Clicked on Login Link
+19:54:11.683 [main] INFO  TestCases.TC_002_LoginTest - Providing login details
+19:54:12.993 [main] INFO  TestCases.TC_002_LoginTest - clicked on Login button
+19:54:13.088 [main] INFO  TestCases.TC_002_LoginTest - **** Finished TC_002_LoginTest *****
+19:54:42.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+19:54:42.463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+19:57:58.773 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+19:57:59.128 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+20:05:08.934 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+20:05:09.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml
+
+20:19:59.426 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+20:20:35.181 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bvrag\eclipse-workspace\EndtoEnd\grouping.xml"
+20:20:40.991 [main] DEBUG TestCases.TC_001_AccountRegistrationTest - application logs......
+20:20:40.991 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+20:20:41.102 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on My account link
+20:20:41.679 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on register link
+20:20:41.687 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Providing customer data
+20:20:43.008 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Clicked on continue
+20:20:43.047 [main] INFO  TestCases.TC_001_AccountRegistrationTest - Validating expected message
+20:20:43.050 [main] INFO  TestCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+20:20:46.419 [main] INFO  TestCases.TC_002_LoginTest - **** Starting TC_OO2_LoginTest *****
+20:20:46.484 [main] INFO  TestCases.TC_002_LoginTest - Clicked on My Account
+20:20:46.839 [main] INFO  TestCases.TC_002_LoginTest - Clicked on Login Link
+20:20:46.841 [main] INFO  TestCases.TC_002_LoginTest - Providing login details
+20:20:47.798 [main] INFO  TestCases.TC_002_LoginTest - clicked on Login button
+20:20:47.846 [main] INFO  TestCases.TC_002_LoginTest - **** Finished TC_002_LoginTest *****
